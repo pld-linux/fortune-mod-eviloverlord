@@ -1,13 +1,13 @@
 Summary:	Things I'd Do If I Ever Became An Evil Overlord
 Summary(pl.UTF-8):	Rzeczy, które bym zrobił, gdybym zdobył władzę nad światem
 Name:		fortune-mod-eviloverlord
-Version:	20090903
+Version:	20091121
 Release:	1
 License:	Distributable + WTFPL
 Group:		Applications/Games
 # git clone git://github.com/pawelz/fortune-mod-eviloverlord
-Source0:	%{name}-%{version}.tar.bz2
-# Source0-md5:	b61761f7c1f2468b3e80201b865ef0f4
+Source0:	http://xatka.net/~z/PLD/%{name}-%{version}.tar.bz2
+# Source0-md5:	d019f96f1364b7c69c32e2c101f1de86
 Source1:	http://www.eviloverlord.com/lists/overlord.html
 # Source1-md5:	b7852206caff4f2eaaecd8006fb068d4
 Source2:	http://www.eviloverlord.com/lists/dungeon_a.html
